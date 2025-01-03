@@ -1,6 +1,7 @@
 # ISIV (Incremental Segmentation for Indoor Video)
 The dataset of ISIV (**I**ncremental **S**egmentation for **I**ndoor **V**ideo).
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=hhhhh12131.ISIV&left_color=green&right_color=red)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hhhhh12131.ISIV)
 
 ## 🎨 Introduction
 
