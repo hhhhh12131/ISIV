@@ -35,18 +35,18 @@ The download links of Google Driver and Baidu Netdisk:
 Below is an overview of the directory and file structure:
 ```
 indoor_dataset
-├── img
+├── img       # The original images 
+│   ├── 1001_3iEIq5HBY1s_0.jpg   # Example image file
+│   ├── 1001_3iEIq5HBY1s_1.jpg
+│   └─ ...
+├── mask      # The corresponding mask images
 │   ├── 1001_3iEIq5HBY1s_0.jpg
 │   ├── 1001_3iEIq5HBY1s_1.jpg
-│   ├── ...
-├── mask
-│   ├── 1001_3iEIq5HBY1s_0.jpg
-│   ├── 1001_3iEIq5HBY1s_1.jpg
-│   ├── ...
-├── proposal
-│   ├── 1001_3iEIq5HBY1s_0.jpg
-│   ├── 1001_3iEIq5HBY1s_1.jpg
-│   ├── ...
+│   └─ ...
+└─ proposal   # The proposals
+    ├── 1001_3iEIq5HBY1s_0.jpg
+    ├── 1001_3iEIq5HBY1s_1.jpg
+    └─ ...
 ```
 
 
