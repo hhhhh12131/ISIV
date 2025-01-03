@@ -16,11 +16,11 @@ ISIV follows a two-tier structure, including:
 * **Objects**: Covers a range of small or everyday items used indoors, such as bottles, books, and food.
 * **Living Entities**: Includes humans and plants, reflecting the biological elements within indoor environments.
 
-<p align="center"><img src="figs/ISIV.png" alt="ISIV" width="400"/></p>
+<p align="center"><img src="figs/ISIV.png" alt="ISIV"/></p>
 
 A sample of the ISIV dataset is displayed below. There are three sets of data collected from a single video. Columns 1, 3, and 5 display the original images, while columns 2, 4, and 6 present the corresponding annotation information.
 
-<p align="center"><img src="figs/vis.png" alt="vis" width="400"/></p>
+<p align="center"><img src="figs/vis.png" alt="vis"/></p>
 
 ## Download Dataset
 
