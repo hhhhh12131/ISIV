@@ -53,7 +53,7 @@ indoor_dataset
 ## :pencil: Citation
 If this codebase is useful to you, please cite our work:
 ```
-@misc{ISIV2025,
+@misc{ISIV2024,
   title        = {Incremental Segmentation for Indoor Video (ISIV) Dataset},
   author       = {Zekang Zhang and Xiao Yu and Hongguang Zhu and Yan Fang and Yunchao Wei and Yao Zhao},
   institution  = {The Institute of Information Science, Beijing Jiaotong University},
