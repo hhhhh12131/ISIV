@@ -25,11 +25,11 @@ A sample of the ISIV dataset is displayed below. There are three sets of data co
 
 ## :open_file_folder: Download Dataset
 
-The download links of Google Driver and Baidu Netdisk:
+The download links of Google Drive and Baidu Netdisk:
 
 |  | Link |
 | -------- | -------- |
-| Google Driver     | [Download](https://drive.google.com/file/d/1qd63d-BiFh-Q-vfsz4O6YSAFpkBpDNiL/view?usp=drive_link)     |
+| Google Drive     | [Download](https://drive.google.com/file/d/1qd63d-BiFh-Q-vfsz4O6YSAFpkBpDNiL/view?usp=drive_link)     |
 | Baidu Netdisk | [Download](https://pan.baidu.com/s/1w9O6EVbplgt2gSVZXuMPSw?pwd=9xd7) |
 
 ## :pushpin: Structure
